@@ -298,8 +298,52 @@ html_content = f"""<!DOCTYPE html>
     margin-bottom: 14px;
   }}
 
-  /* ---- PAGE BREAK ---- */
+  /* ---- PAGE BREAKS ---- */
   .page-break {{ page-break-before: always; }}
+
+  h2 {{
+    page-break-after: avoid;
+    page-break-inside: avoid;
+  }}
+  h3 {{
+    page-break-after: avoid;
+    page-break-inside: avoid;
+  }}
+  h4 {{
+    page-break-after: avoid;
+    page-break-inside: avoid;
+  }}
+  .property-card {{
+    page-break-inside: avoid;
+  }}
+  .term-block {{
+    page-break-inside: avoid;
+  }}
+  .signature-section {{
+    page-break-inside: avoid;
+  }}
+  .signature-grid {{
+    page-break-inside: avoid;
+  }}
+  .pricing-table {{
+    page-break-inside: avoid;
+  }}
+  .note-box {{
+    page-break-inside: avoid;
+  }}
+  .meta-table {{
+    page-break-inside: avoid;
+  }}
+  .section-block {{
+    page-break-inside: avoid;
+  }}
+  ul {{
+    page-break-inside: avoid;
+  }}
+  p {{
+    orphans: 3;
+    widows: 3;
+  }}
 
   /* ---- PROPERTY CARD ---- */
   .property-card {{
@@ -367,6 +411,7 @@ html_content = f"""<!DOCTYPE html>
 </table>
 
 <!-- PROPERTIES -->
+<div class="section-block">
 <h2>Properties Covered Under This Agreement</h2>
 <p>This agreement covers pest control services for the following four properties under common management.</p>
 
@@ -382,6 +427,7 @@ html_content = f"""<!DOCTYPE html>
   <tr><td>4</td><td>Flea Market RV Park</td><td>Chiefland, FL 32626</td></tr>
 </table>
 <p style="font-size:9pt; color:#555; font-style:italic;">All offices and common areas are included at each property.</p>
+</div>
 
 <!-- SCOPE -->
 <h2>Scope of Services</h2>
@@ -563,6 +609,7 @@ html_content = f"""<!DOCTYPE html>
 </div>
 
 <!-- LICENSING -->
+<div class="section-block">
 <h2>Licensing and Insurance</h2>
 <table class="data-table">
   <tr><td class="label-col">Business License Number</td><td>JB304313</td></tr>
@@ -575,6 +622,7 @@ html_content = f"""<!DOCTYPE html>
   <tr><td class="label-col">Policy Expiration</td><td>February 24, 2027</td></tr>
 </table>
 <p style="font-size:9pt; color:#555;">A certificate of insurance is available upon request.</p>
+</div>
 
 <!-- SIGNATURE -->
 <h2>Agreement and Authorization</h2>
