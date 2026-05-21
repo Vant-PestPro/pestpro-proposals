@@ -63,7 +63,6 @@ Monthly interior and exterior treatments at all four properties targeting the fo
 - Exterior perimeter application (foundation, eaves, window and door frames)
 - Crack and crevice treatment where pest activity is identified
 - Product rotation to prevent resistance buildup
-- Written service report provided after each visit
 
 ---
 
@@ -139,7 +138,6 @@ Twelve (12) tamper-resistant rodent bait stations will be professionally install
 - Monitoring, documentation of activity, and bait replenishment as needed
 - Activity log maintained per station
 - Bait station placement map provided to management at time of installation
-- Written service report after each visit noting station status
 
 > Tamper-resistant bait stations meet OSHA and EPA requirements for commercial and public-access environments. All rodenticide products used are registered with the Florida Department of Agriculture and Consumer Services.
 
@@ -154,7 +152,7 @@ Twelve (12) tamper-resistant rodent bait stations will be professionally install
 | Chiefland RV Park | Monthly | Scheduled with on-site contact |
 | Flea Market RV Park | Monthly | Scheduled with on-site contact |
 
-A written service report will be provided after every visit at each property. Any pest activity observed outside of target pests will be noted and communicated to management.
+Service days and times will be coordinated with your on-site contact to minimize disruption to operations and tenants.
 
 ---
 
