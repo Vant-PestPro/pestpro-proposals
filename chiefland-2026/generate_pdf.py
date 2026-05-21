@@ -41,27 +41,28 @@ html_content = f"""<!DOCTYPE html>
   /* ---- COVER HEADER ---- */
   .doc-header {{
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     justify-content: space-between;
     border-bottom: 3px solid #1a2557;
     padding-bottom: 18px;
     margin-bottom: 24px;
   }}
   .doc-header img {{
-    height: 62px;
-    width: auto;
+    width: 48%;
+    height: auto;
   }}
   .doc-header-right {{
     text-align: right;
-    font-size: 8.5pt;
+    font-size: 9pt;
     color: #444;
-    line-height: 1.6;
+    line-height: 1.7;
+    width: 48%;
   }}
   .doc-header-right strong {{
     display: block;
-    font-size: 9pt;
+    font-size: 10.5pt;
     color: #1a2557;
-    margin-bottom: 2px;
+    margin-bottom: 3px;
   }}
 
   /* ---- TITLE BLOCK ---- */
