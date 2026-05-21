@@ -7,6 +7,11 @@ logo_path = "/Users/vant/.openclaw/workspace/projects/pestpro-website/assets/log
 with open(logo_path, "rb") as f:
     logo_b64 = base64.b64encode(f.read()).decode()
 
+# Encode signature
+sig_path = "/Users/vant/.openclaw/cleo-workspace/projects/pestpro-proposals/chiefland-2026/signature.png"
+with open(sig_path, "rb") as f:
+    sig_b64 = base64.b64encode(f.read()).decode()
+
 html_content = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -399,7 +404,7 @@ html_content = f"""<!DOCTYPE html>
 
 <!-- ABOUT -->
 <h2>About Pest Pro, LLC</h2>
-<p>Pest Pro, LLC has been protecting Florida homes and businesses since 1988. Based in Kissimmee, Florida, we serve clients throughout Central Florida and beyond with treatment plans built around the specific needs of each property. We are licensed by the Florida Department of Agriculture and Consumer Services and fully insured.</p>
+<p>Pest Pro, LLC has been protecting Florida homes and businesses since 1988. Based in Kissimmee, Florida, we deliver <strong>customized pest management systems</strong> built around the specific needs of each property. Our approach is rooted in <strong>Integrative Pest Management (IPM)</strong> principles, combining targeted treatments, environmental awareness, and ongoing monitoring to achieve lasting results. We are licensed by the Florida Department of Agriculture and Consumer Services and fully insured.</p>
 
 <table class="data-table" style="margin-top:12px;">
   <tr><td class="label-col">License</td><td>JB304313 (GHP), FDACS</td></tr>
@@ -433,7 +438,7 @@ html_content = f"""<!DOCTYPE html>
 <h2>Scope of Services</h2>
 
 <h3>General Household Pest (GHP) Program</h3>
-<p>Monthly interior and exterior treatments at all four properties covering:</p>
+<p>All four properties are enrolled in our <strong>Pest-Pro Active Ecological Maintenance</strong> program. Monthly interior and exterior treatments cover:</p>
 <ul>
   <li>Ants</li>
   <li>Cockroaches (including American cockroach / Palmetto bug)</li>
@@ -632,14 +637,14 @@ html_content = f"""<!DOCTYPE html>
   <div class="signature-grid">
     <div class="sig-block">
       <div class="sig-party">Pest Pro, LLC</div>
-      <div class="sig-line"></div>
+      <img src="data:image/png;base64,{sig_b64}" style="height:55px; width:auto; margin-bottom:2px; display:block;">
       <div class="sig-label">Signature</div>
       <div class="sig-filled">Daniel Rumsey</div>
       <div class="sig-label-filled">Name</div>
-      <div class="sig-filled">Certified Pest Operator</div>
+      <div class="sig-filled">Owner / Certified Operator</div>
       <div class="sig-label-filled">Title</div>
-      <div class="sig-line"></div>
-      <div class="sig-label">Date</div>
+      <div class="sig-filled">May 21, 2026</div>
+      <div class="sig-label-filled">Date</div>
     </div>
     <div class="sig-block">
       <div class="sig-party">Chiefland Farmers Flea Market and Managed Properties</div>
