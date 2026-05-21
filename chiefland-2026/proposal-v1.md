@@ -1,28 +1,28 @@
 # PEST PRO, LLC
-## Commercial Pest Control Services Proposal
+## Commercial Pest Control Service Agreement
 
 | | |
 |---|---|
-| **Prepared for** | Sam Ireson |
+| **Client** | Sam Ireson |
 | **Account** | Chiefland Farmers Flea Market and Managed Properties |
 | **Prepared by** | Daniel Rumsey, CPO |
 | **Company** | Pest Pro, LLC |
 | **License No.** | JB304313 |
-| **Proposal Date** | May 2026 |
-| **Service Start** | June 1, 2026 |
+| **Date** | May 2026 |
+| **Service Commencement** | June 1, 2026 |
 
 ---
 
 ## About Pest Pro, LLC
 
-Pest Pro, LLC has been protecting Florida homes and businesses since 1988. Based in Kissimmee, Florida, we serve clients throughout Central Florida and beyond with science-backed pest management tailored to Florida's unique climate and pest pressures. Every treatment plan is built around the specific needs of the property — not a one-size-fits-all approach.
+Pest Pro, LLC has been protecting Florida homes and businesses since 1988. Based in Kissimmee, Florida, we serve clients throughout Central Florida and beyond with science-backed pest management tailored to Florida's unique climate and pest pressures. Every treatment plan is built around the specific needs of the property, not a one-size-fits-all approach.
 
 We are licensed by the Florida Department of Agriculture and Consumer Services and fully insured, bringing over 35 years of industry experience to every account we service.
 
 | | |
 |---|---|
-| **License** | JB304313 — General Household Pest (GHP), FDACS |
-| **Insurance** | Markel Insurance Company — Policy No. PCG7470-07 |
+| **License** | JB304313 (GHP), FDACS |
+| **Insurance** | Markel Insurance Company, Policy No. PCG7470-07 |
 | **Liability Coverage** | $1,000,000 per occurrence / $3,000,000 aggregate |
 | **Phone** | (407) 922-2276 |
 | **Email** | info@PestProLLC.com |
@@ -32,7 +32,7 @@ We are licensed by the Florida Department of Agriculture and Consumer Services a
 
 ## Properties Covered Under This Agreement
 
-This proposal covers pest control services for the following four properties, all operating under common management as part of Chiefland Farmers Flea Market and Managed Properties.
+This agreement covers pest control services for the following four properties, all operating under common management as part of Chiefland Farmers Flea Market and Managed Properties.
 
 | # | Property | Address |
 |---|----------|---------|
@@ -49,7 +49,7 @@ This proposal covers pest control services for the following four properties, al
 
 ### General Household Pest (GHP) Program
 
-Monthly interior and exterior treatments at all four properties targeting the following pest categories:
+Monthly interior and exterior treatments at all four properties, targeting the following pest categories:
 
 - Ants
 - Cockroaches (including American cockroach / Palmetto bug)
@@ -82,7 +82,7 @@ The flagship property and primary service focus. Monthly GHP service covering al
 - Common areas and interior corridors
 - Exterior courtyard
 - Exterior perimeters (full building perimeter)
-- **The Roost Beer and Wine Bar** — interior and exterior treatments, product-compliant application in and around food and beverage service areas
+- **The Roost Beer and Wine Bar:** interior and exterior treatments with product-compliant application in and around food and beverage service areas
 - The Roost outdoor seating area
 - Food vendor staging area and surrounding zones
 
@@ -145,40 +145,35 @@ Twelve (12) tamper-resistant rodent bait stations will be professionally install
 
 ## Service Schedule
 
-| Property | Service Frequency | Coordination |
-|----------|------------------|--------------|
-| Chiefland Farmers Flea Market | Monthly | Scheduled with management to minimize operational disruption |
-| Manatee Springs RV Park | Monthly | Scheduled with on-site contact |
-| Chiefland RV Park | Monthly | Scheduled with on-site contact |
-| Flea Market RV Park | Monthly | Scheduled with on-site contact |
+| Property | Service Frequency |
+|----------|------------------|
+| Chiefland Farmers Flea Market | Monthly |
+| Manatee Springs RV Park | Monthly |
+| Chiefland RV Park | Monthly |
+| Flea Market RV Park | Monthly |
 
-Service days and times will be coordinated with your on-site contact to minimize disruption to operations and tenants.
+Service days and times will be coordinated with the on-site contact to minimize disruption to operations and tenants.
 
 ---
 
 ## Investment
 
-| Description | Monthly Rate |
-|-------------|-------------|
-| GHP Service — All Four Properties (bundled) | |
-| &nbsp;&nbsp;&nbsp;Chiefland Farmers Flea Market (all zones listed above) | |
-| &nbsp;&nbsp;&nbsp;Manatee Springs RV Park | |
-| &nbsp;&nbsp;&nbsp;Chiefland RV Park | |
-| &nbsp;&nbsp;&nbsp;Flea Market RV Park | |
-| Rodent Bait Station Installation — 12 stations (one-time) | Included |
-| Monthly Rodent Station Monitoring and Maintenance | Included |
+| Service | Monthly Rate |
+|---------|-------------|
+| GHP Pest Control — All Four Properties (bundled) | $550.00 |
+| Rodent Bait Station Program (12 stations, installation and monthly monitoring) | Included |
 | **Total Monthly Investment** | **$550.00** |
 
 **Annual Contract Value: $6,600.00**
 
-*All services described in this proposal are included in the monthly rate. No additional fees or hidden charges.*
+*All services described in this agreement are included in the monthly rate. No additional fees.*
 
 ---
 
 ## Terms and Conditions
 
 **Contract Term**
-This agreement is for a period of twelve (12) months, commencing June 1, 2026 and expiring May 31, 2027, unless cancelled in accordance with the cancellation provision below.
+This agreement is for a period of twelve (12) months, commencing June 1, 2026, and expiring May 31, 2027, unless cancelled in accordance with the cancellation provision below.
 
 **Cancellation**
 Either party may terminate this agreement by providing thirty (30) days written notice to the other party, in accordance with Florida law governing pest control service contracts.
@@ -193,9 +188,7 @@ Accounts not paid within the Net 30 period may be subject to a service hold unti
 Client agrees to provide Pest Pro, LLC reasonable access to all areas of the above-listed properties for the purpose of performing contracted services. Advance notice of access restrictions or scheduling requirements should be communicated to Pest Pro, LLC at the time of scheduling.
 
 **Service Communication**
-All service concerns, questions, re-service requests, or additional service inquiries should be directed to:
-
-> Pest Pro, LLC — (407) 922-2276 — info@PestProLLC.com
+All service concerns, questions, re-service requests, or additional service inquiries should be directed to Pest Pro, LLC at (407) 922-2276 or info@PestProLLC.com.
 
 **Re-Service Guarantee**
 Pest Pro, LLC will re-service any treated area at no additional charge if covered pest activity re-emerges between scheduled visits, provided the client contacts Pest Pro within the active service period and reasonable access is available.
@@ -210,7 +203,7 @@ All products applied by Pest Pro, LLC are registered with the United States Envi
 | | |
 |---|---|
 | **Business License Number** | JB304313 |
-| **License Type** | Pest Control Business License — General Household Pest (GHP) |
+| **License Type** | Pest Control Business License, General Household Pest (GHP) |
 | **Issued By** | Florida Department of Agriculture and Consumer Services (FDACS) |
 | **License Expiration** | November 30, 2026 |
 | **Liability Insurer** | Markel Insurance Company (NAIC 38970) |
@@ -224,7 +217,7 @@ Certificates of insurance are available upon request.
 
 ## Agreement and Authorization
 
-By signing below, both parties acknowledge and agree to the terms, conditions, and scope of services outlined in this proposal. This document, once signed by both parties, constitutes a binding service agreement.
+By signing below, both parties acknowledge and agree to the terms, conditions, and scope of services outlined in this agreement. This document, once signed by both parties, constitutes a binding service agreement.
 
 ---
 
@@ -236,7 +229,7 @@ Signature: ___________________________________________
 
 Name: Daniel Rumsey
 
-Title: Certified Pest Operator (CPO)
+Title: Certified Pest Operator
 
 Date: _______________
 
