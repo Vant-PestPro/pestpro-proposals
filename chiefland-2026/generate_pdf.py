@@ -48,21 +48,20 @@ html_content = f"""<!DOCTYPE html>
     margin-bottom: 24px;
   }}
   .doc-header img {{
-    width: 48%;
-    height: auto;
+    height: 155px;
+    width: auto;
   }}
   .doc-header-right {{
     text-align: right;
-    font-size: 9pt;
+    font-size: 8.5pt;
     color: #444;
-    line-height: 1.7;
-    width: 48%;
+    line-height: 1.6;
   }}
   .doc-header-right strong {{
     display: block;
-    font-size: 10.5pt;
+    font-size: 9pt;
     color: #1a2557;
-    margin-bottom: 3px;
+    margin-bottom: 2px;
   }}
 
   /* ---- TITLE BLOCK ---- */
